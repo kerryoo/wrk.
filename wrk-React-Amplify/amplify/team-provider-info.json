@@ -1,0 +1,14 @@
+{
+    "wrkreact": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-wrk-react-amplify-wrkreact-100228-authRole",
+            "UnauthRoleArn": "arn:aws:iam::302383978482:role/amplify-wrk-react-amplify-wrkreact-100228-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::302383978482:role/amplify-wrk-react-amplify-wrkreact-100228-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-wrk-react-amplify-wrkreact-100228-deployment",
+            "UnauthRoleName": "amplify-wrk-react-amplify-wrkreact-100228-unauthRole",
+            "StackName": "amplify-wrk-react-amplify-wrkreact-100228",
+            "StackId": "arn:aws:cloudformation:us-west-2:302383978482:stack/amplify-wrk-react-amplify-wrkreact-100228/0074a730-5d60-11ea-8ab1-0682562e98ce"
+        }
+    }
+}
